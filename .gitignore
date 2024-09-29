@@ -85,6 +85,11 @@ web_modules/
 /frontend/.env.production.local
 /frontend/.env.local
 
+*.env
+*.env.example
+*.env.local
+*.env.staging
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
